@@ -42,6 +42,10 @@ All tasks reflect research, applied learning, and experimentation during the int
 - Tools used and methodologies followed
 
 ---
+## 👤 Author
+
+This internship project was completed by **[Priyali Poojari]** as part of the Cybersecurity Internship Program 2025 under Digisuraksha Parhari Foundation.
+
 
 ## 📄 License
 
